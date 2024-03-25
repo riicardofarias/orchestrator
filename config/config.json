@@ -1,0 +1,13 @@
+{
+  "rabbitmq": {
+    "host": "localhost",
+    "port": 5673,
+    "username": "guest",
+    "password": "guest"
+  },
+  "database": {
+    "name": "orchestration",
+    "host": "localhost",
+    "port": "27018"
+  }
+}
